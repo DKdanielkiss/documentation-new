@@ -3,7 +3,7 @@ title: Homepage 1
 description: Homepage 1 Description
 ---
 
-# Welcome to Radiant Logic Firefly
+# Welcome to Radiant Logic Dev0ps
 
 This site provides resources for DevOps professionals to deploy the RadiantOne platform. Docker images and Kubernetes for orchestration allows for easily deploying the RadiantOne platform in the cloud.
 
